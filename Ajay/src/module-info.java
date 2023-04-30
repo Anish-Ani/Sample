@@ -5,5 +5,5 @@
  * @author Admin
  *
  */
-module Hibernate {
+module Ajay {
 }
