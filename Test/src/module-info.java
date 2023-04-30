@@ -5,5 +5,5 @@
  * @author Admin
  *
  */
-module AnishTest {
+module Test {
 }
